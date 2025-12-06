@@ -33,4 +33,4 @@ build/
 # Other
 wandb/
 
-
+day_12_Caching_Guardrails/cache/embeddings/** 
